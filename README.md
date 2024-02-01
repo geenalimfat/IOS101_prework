@@ -22,7 +22,7 @@ The following **required** functionality is completed:
     <a href="https://www.loom.com/share/035bb2a182a14c1ab721820da6982e29">
     </a>
     <a href="https://www.loom.com/share/035bb2a182a14c1ab721820da6982e29">
-      <img style="max-width:300px;" src="null">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/035bb2a182a14c1ab721820da6982e29-with-play.gif">
     </a>
   </div>
 
@@ -44,7 +44,8 @@ The following **required** functionality is completed:
         2. Shows the direction the phone is facing
         
     App to Build:
-    I would want to build an app that's similar to the Google maps app but integrates the some of the concepts BeReal. The app has save collections that the user can create that will hold their saved places. I would add a search bar to this collection so user's can look up the place that they're searching for in the collection. There would also be a way to sort the saved collection based on alphabetical, when it was added, what's open right now, etc.. To incorporate the concept of BeReal, the user can take a picture while they're on the app and it would be saved on the location of the map. Users can connect with other user's and tag each other and re upload the photos to their own accounts. There would be different map views to clean up the look of the map. This includes a map view that shows dropped pins and a thumbnail of the photo taken at the area, as well as a map view that shows the saved locations. Users would also be able to connect their photos at the place they saved so when they look it up again, their photo will be displayed. 
+    I would want to build an app that's similar to the Google maps app but integrates the some of the concepts BeReal. The app has save collections that the user can create that will hold their saved places. 
+    I would add a search bar to this collection so user's can look up the place that they're searching for in the collection. There would also be a way to sort the saved collection based on alphabetical, when it was added, what's open right now, etc.. To incorporate the concept of BeReal, the user can take a picture while they're on the app and it would be saved on the location of the map. Users can connect with other user's and tag each other and re upload the photos to their own accounts. There would be different map views to clean up the look of the map. This includes a map view that shows dropped pins and a thumbnail of the photo taken at the area, as well as a map view that shows the saved locations. Users would also be able to connect their photos at the place they saved so when they look it up again, their photo will be displayed. 
     
 
 ## Notes
